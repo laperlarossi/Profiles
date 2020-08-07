@@ -170,7 +170,7 @@ DOMAIN-SUFFIX,flickr.com,PROXY
 DOMAIN-SUFFIX,flitto.com,PROXY
 DOMAIN-SUFFIX,foreignpolicy.com,PROXY
 DOMAIN-SUFFIX,freebrowser.org,PROXY
-DOMAIN-SUFFIX,freewechat.com,PROXY
+DOMAIN-SUFFIX,freewechat.com,DIRECT
 DOMAIN-SUFFIX,freeweibo.com,PROXY
 DOMAIN-SUFFIX,friday.tw,PROXY
 DOMAIN-SUFFIX,ftchinese.com,PROXY
